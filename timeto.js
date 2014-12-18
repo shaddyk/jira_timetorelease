@@ -16,7 +16,7 @@ var today = new Date();
 var holidays = ["01.01.2015", "02.01.2015", "03.01.2015", "04.01.2015", "05.01.2015", "06.01.2015", "07.01.2015", "08.01.2015", "09.01.2015", "23.02.2015", "09.03.2015", "01.05.2015", "04.05.2015", "11.05.2015", "12.06.2015", "04.11.2015"];
 
 var xhr = new XMLHttpRequest();
-xhr.open("GET", "/rest/api/2/project/CDI/versions/", false);
+xhr.open("GET", "/rest/api/2/project/YOUR_PROJECT_NAME/versions/", false);
 xhr.send();
 
 var versions = JSON.parse(xhr.responseText);
