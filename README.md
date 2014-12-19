@@ -19,4 +19,4 @@ For now script contains only Russian holidays, change it as you wish.
 
 Look & Feel:
 
-![Example](http://i.imgur.com/H3VE8UZ.png)
+![Example](http://i.imgur.com/bcCOe8d.png)
