@@ -18,4 +18,5 @@ Change it in line 19 — "xhr.open("GET", "/rest/api/2/project/YOUR_PROJECT_NAME
 For now script contains only Russian holidays, change it as you wish.
 
 Look & Feel:
+
 ![Example](http://i.imgur.com/H3VE8UZ.png)
