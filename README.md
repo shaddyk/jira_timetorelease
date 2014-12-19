@@ -16,3 +16,6 @@ The only feature, which you can customize, is the name of your project.
 Change it in line 19 — "xhr.open("GET", "/rest/api/2/project/YOUR_PROJECT_NAME/versions/", false);"
 
 For now script contains only Russian holidays, change it as you wish.
+
+Look & Feel:
+![Example](http://i.imgur.com/H3VE8UZ.png)
